@@ -18,7 +18,9 @@ Nationality   : **INDIAN**
 
 S.NO|Course|Name of the instituition|Year of passing|Percentage of Marks
 ---------|-----------|------------------------------|---------------------|------------------------
+
 1.|SSLC|Kongu vellalar Matric Hr.Sec.School.|2013|96%
+
 2.|HSC|Kongu vellalar Matric Hr.Sec.School.|2015|84%
 
 
