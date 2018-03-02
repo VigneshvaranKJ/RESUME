@@ -33,7 +33,7 @@ LoRaWAN
 Listening to music, watching movies, eating, sleeping and singing.
 
 ### Area of Interests
-Singing, Travelling, Boxing, Social Works.
+Singing, Travelling,Meme Creating, Boxing, Social Works.
 
 ### Email-id
 vigneshvarankj@gmail.com
