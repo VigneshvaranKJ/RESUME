@@ -26,10 +26,10 @@ S.NO|Course|Name of the instituition|Year of passing|Percentage of Marks
 ### COLLEGE 
 Pandian Saraswathi Yadav Engineering College.
 
-##### BRANCH
+##### **BRANCH**
 Electronics and Communication Engineering (**ECE**)
 
-##### YEAR
+##### **YEAR**
 IIIrd Year
 
 ### ONGOING PROJECT
