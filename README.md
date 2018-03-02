@@ -39,10 +39,11 @@ Listening to music, watching movies, eating, sleeping and singing.
 Singing, Travelling,Meme Creating, Boxing, Social Works.
 
 ###                                                     **DECLARATION**
-                      I hereby solemnly declare that the above furnished details are true to the best of my knowledge and beliefs.
+   I hereby solemnly declare that the above furnished details are true to the best of my knowledge and beliefs.
 
+##**Contact Details:**
 ### Email-id
 vigneshvarankj@gmail.com
-
 ### Mobile
 9715024374
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
