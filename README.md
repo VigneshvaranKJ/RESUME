@@ -49,7 +49,7 @@ Singing, Travelling, Meme Creating, Boxing, Social Works.
 ###                                                     **DECLARATION**
    I hereby solemnly declare that the above furnished details are true to the best of my knowledge and beliefs.
 
-# **CONTACT DETAILS**
+## **CONTACT DETAILS**
 #### Email-id
 vigneshvarankj@gmail.com
 #### Mobile
