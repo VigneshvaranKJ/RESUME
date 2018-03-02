@@ -6,7 +6,7 @@ Mother's Name : **J.Nirmala Devi**
 
 D.O.B         : **26/08/1997**
 
-Address       : **41/13 A, Thirukkural Illam,College road,Sivagangai - 630561.**
+Address       : **41/13 A, Thirukkural Illam,College road,Sivagangai - 630561, Tamil Nadu.**
 
 Gender        : **Male**
 
