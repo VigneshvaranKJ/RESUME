@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+                                                              #RESUME
 
-You can use the [editor on GitHub](https://github.com/VigneshvaranKJ/RESUME/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###BASIC INFO 
+Name        : **K.J.VIGNESHVARAN**
+D.O.B       : **26/08/1997**
+Address     : **41/13 A, Thirukkural Illam,College road,Sivagangai - 630561.**
+Gender      : **Male**
+Nationality : **INDIAN**
+**S.NO** |**Course** | **Name of the instituition** | **Year of passing** | **Percentage of Marks**
+1.|SSLC|Kongu vellalar Matric Hr.Sec.School.|2013|96%
+2.|HSC|Kongu vellalar Matric Hr.Sec.School.|2015|84%
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### College 
+Pandian Saraswathi Yadav Engineering College.
 
-```markdown
-Syntax highlighted code block
+#### Branch
+Electronics and Communication Engineering (**ECE**)
 
-# Header 1
-## Header 2
-### Header 3
+#### Year
+IIIrd Year
 
-- Bulleted
-- List
+### Ongoing Project
+LoRaWAN
 
-1. Numbered
-2. List
+### Internships Attended
+1) Southern Railways (1 Month)
 
-**Bold** and _Italic_ and `Code` text
+2) PG Connect Networking (15 Days)
 
-[Link](url) and ![Image](src)
-```
+### Hobbies
+Listening to music, watching movies, eating, sleeping and singing.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Area of Interests
+Singing, Travelling, Boxing, Social Works.
 
-### Jekyll Themes
+### Email-id
+vigneshvarankj@gmail.com
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VigneshvaranKJ/RESUME/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Mobile
+9715024374
