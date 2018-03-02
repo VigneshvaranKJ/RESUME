@@ -36,14 +36,13 @@ LoRaWAN
 Listening to music, watching movies, eating, sleeping and singing.
 
 ### Area of Interests
-Singing, Travelling,Meme Creating, Boxing, Social Works.
+Singing:musical_note:, Travelling:bus:,Meme Creating, Boxing, Social Works:innocent:.
 
 ###                                                     **DECLARATION**
-   I hereby solemnly declare that the above furnished details are true to the best of my knowledge and beliefs.
+   I hereby solemnly declare that the above furnished details are true to the best of my knowledge and beliefs.:thumbsup:
 
-##**Contact Details:**
+## **Contact Details**
 ### Email-id
 vigneshvarankj@gmail.com
-### Mobile
+### Mobile:phone:
 9715024374
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
