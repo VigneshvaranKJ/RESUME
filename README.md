@@ -1,5 +1,3 @@
-###BASIC INFO 
-
 Name        : **K.J.VIGNESHVARAN**
 
 D.O.B       : **26/08/1997**
@@ -39,6 +37,9 @@ Listening to music, watching movies, eating, sleeping and singing.
 
 ### Area of Interests
 Singing, Travelling,Meme Creating, Boxing, Social Works.
+
+###                                                     **DECLARATION**
+                      I hereby solemnly declare that the above furnished details are true to the best of my knowledge and beliefs.
 
 ### Email-id
 vigneshvarankj@gmail.com
