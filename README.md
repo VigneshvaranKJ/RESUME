@@ -36,10 +36,10 @@ LoRaWAN
 Listening to music, watching movies, eating, sleeping and singing.
 
 ### Area of Interests
-Singing:musical_note:, Travelling:bus:,Meme Creating, Boxing, Social Works:innocent:.
+Singing:musical_note: , Travelling:bus: , Meme Creating , Boxing , Social Works:innocent:
 
 ###                                                     **DECLARATION**
-   I hereby solemnly declare that the above furnished details are true to the best of my knowledge and beliefs.:thumbsup:
+   I hereby solemnly declare that the above furnished details are true to the best of my knowledge and beliefs:thumbsup:.
 
 ## **Contact Details**
 ### Email-id
