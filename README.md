@@ -1,5 +1,4 @@
-                                                              #RESUME
-
+#RESUME
 ###BASIC INFO 
 Name        : **K.J.VIGNESHVARAN**
 D.O.B       : **26/08/1997**
@@ -7,6 +6,7 @@ Address     : **41/13 A, Thirukkural Illam,College road,Sivagangai - 630561.**
 Gender      : **Male**
 Nationality : **INDIAN**
 **S.NO** |**Course** | **Name of the instituition** | **Year of passing** | **Percentage of Marks**
+---------|-----------|------------------------------|---------------------|------------------------
 1.|SSLC|Kongu vellalar Matric Hr.Sec.School.|2013|96%
 2.|HSC|Kongu vellalar Matric Hr.Sec.School.|2015|84%
 
