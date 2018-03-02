@@ -16,6 +16,7 @@ Nationality   : **INDIAN**
 **To be a part of an organization where I can develop myself creatively and joyfully and to give the best of my talents & skills to become its strong asset.**
 
 ### QUALIFICATION:
+
 S.NO|Course|Name of the instituition|Year of passing|Percentage of Marks
 ---------|-----------|------------------------------|---------------------|------------------------
 1.|SSLC|Kongu vellalar Matric Hr.Sec.School.|2013|96%
